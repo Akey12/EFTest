@@ -1,0 +1,10 @@
+C:\Development\EFTest\EFTest\bin\Debug\EFTest.exe.config
+C:\Development\EFTest\EFTest\obj\Debug\EFTest.csprojResolveAssemblyReference.cache
+C:\Development\EFTest\EFTest\bin\Debug\EFTest.exe
+C:\Development\EFTest\EFTest\bin\Debug\EFTest.pdb
+C:\Development\EFTest\EFTest\bin\Debug\EntityFramework.dll
+C:\Development\EFTest\EFTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\EFTest\EFTest\bin\Debug\EntityFramework.xml
+C:\Development\EFTest\EFTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\EFTest\EFTest\obj\Debug\EFTest.exe
+C:\Development\EFTest\EFTest\obj\Debug\EFTest.pdb
